@@ -1,0 +1,13 @@
+{
+  "name": "api-loja-sapatos",
+  "version": "1.0.0",
+  "description": "API de uma loja de sapatos utilizando Node.js e MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0"
+  }
+}
